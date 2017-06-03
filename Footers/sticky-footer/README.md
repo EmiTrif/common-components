@@ -1,0 +1,1 @@
+3 ways to creat a sticky footer
