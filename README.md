@@ -1,2 +1,8 @@
-# common-components
-common elements of a web-page
+# Common components
+
+Some common elements used on most web pages.
+
+### Built with:
+	- HTML
+	- CSS
+	

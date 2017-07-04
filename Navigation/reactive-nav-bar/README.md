@@ -1,10 +1,10 @@
 # Common components
 
-A simple footer.
+A reactive nav-bar.
 
 ### Built with:
 	- HTML
 	- CSS
 
 ### Live link:
-https://jsbin.com/wupeme/2
+https://output.jsbin.com/himisun/2
